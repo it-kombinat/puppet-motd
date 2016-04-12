@@ -16,3 +16,6 @@ Manage 'Message Of The Day' via Puppet
 * 
 ---
 This should only visible in dev and QA
+
+---
+chepp

@@ -6,5 +6,4 @@ FQDN:      <%= scope.lookupvar('::fqdn') %> (<%= scope.lookupvar('::ipaddress') 
 Processor: <%= scope.lookupvar('::processorcount') %>x <%= scope.lookupvar('::processor0') %>
 <% end -%>
 Kernel:    <%= scope.lookupvar('::kernelrelease') %>
-Memory:    <%= scope.lookupvar('::memorysize') %>
 
