@@ -13,3 +13,6 @@ Manage 'Message Of The Day' via Puppet
 * config_file: string, default: OS specific. Set config_file, if platform is not supported.
 * template: string, default: OS specific. Set template, if platform is not supported.
 * inline_template: string, default: not set. String with the actual template, overrides *template* param.
+* 
+---
+This should only visible in dev and QA
